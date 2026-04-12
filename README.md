@@ -151,5 +151,5 @@ This project is licensed under the [MIT License](LICENSE) © 2026 Prakhar Srivas
 ## 🙋 Author
 
 **Prakhar Srivastava**  
-Data Analyst | SQL · Power BI · Python  
+Data Scientist & Business Analyst | Machine Learning, Deep Learning & Generative AI Enthusiast  
 [GitHub](https://github.com/PrakharSri18-data)
